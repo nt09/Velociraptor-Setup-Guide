@@ -125,7 +125,9 @@ Velociraptor provides powerful capabilities for:
  ![image](https://github.com/user-attachments/assets/d9188283-9e43-495f-9f27-a77405a4982b)
  
 #### 5. Check the Service Status:
-* Open " Services.msc " and verify the Velociraptor client service is running.
+     Get-Service -Name Velociraptor 
+  ![image](https://github.com/user-attachments/assets/98fae703-60b0-400e-873f-066adc53e666)
+
 #### 6. Verify Client Addition:
 * Log in to the Velociraptor web interface and confirm the client appears in the dashboard.
   ![image](https://github.com/user-attachments/assets/2698b627-93bc-41f3-a8f5-bc56b66cc513)
